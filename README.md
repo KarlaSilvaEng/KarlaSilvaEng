@@ -1,5 +1,3 @@
-[![Capa](https://github.com/seu-usuário/KarlaSilvaEng/raw/main/)](https://github.com/KarlaSilvaEng)
-
 ### Olá! Eu sou a Karla Silva 😊
 
 Carioca, engenheira civil em transição de carreira, apaixonada por trilhas em meio à natureza, pelo processo de autoconhecimento, por pessoas bem humoradas, por açaí com leite em pó e, por último, mas não menos importante, pela tecnologia.
