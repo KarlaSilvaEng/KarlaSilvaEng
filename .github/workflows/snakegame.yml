@@ -33,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SnakeGamesAccess }}
           branch: ${{ github.ref }}
           force: true
 
@@ -43,4 +43,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SnakeGamesAccess }}
