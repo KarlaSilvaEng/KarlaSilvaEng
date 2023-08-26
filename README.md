@@ -20,5 +20,7 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlasilva-eng/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karlasilvaeng@gmail.com)
 
+![snake gif](https://github.com/KarlaSilvaEng/KarlaSilvaEng/blob/output/github-contribution-grid-snake.svg)
+
 > "A verdadeira educação é a práxis: reflexão e ação do homem sobre o mundo para transformá-lo." - Paulo Freire
-> 
+
