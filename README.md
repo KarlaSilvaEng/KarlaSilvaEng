@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=false&lines=👋+Olá,+mundo!+Bem-vindo+ao+meu+perfil;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=true&lines=👋+Olá,+mundo!+Bem-vindo+ao+meu+perfil;)](https://git.io/typing-svg)
  
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
