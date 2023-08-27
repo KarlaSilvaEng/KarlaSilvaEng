@@ -17,10 +17,12 @@ No momento, estou cursando Desenvolvimento de Software com foco em Back-End na C
 <br><br>
 Tenho interesse em atuar como Desenvolvedor Web back-end, Front-end ou Fullstack.
 </p>
+
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
+
 <h3 align="left">Contatos</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com)
