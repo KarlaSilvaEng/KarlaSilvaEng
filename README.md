@@ -15,7 +15,7 @@ Formada em Engenharia Civil pela UERJ, atuei como engenheira calculista em proje
 <br><br>
 No momento, estou cursando Desenvolvimento de Software com foco em Back-End na CubosAcademy e Desenvolvimento Web Front-End na DevMedia. Estou muito animada nessa jornada e sempre em busca de novos conhecimentos na área para fazer uso do potencial da tecnologia de forma positiva, ética e inclusiva.
 <br><br>
-Tenho interesse em atuar como Desenvolvedor Web back-end, Front-end ou Fullstack.
+Tenho interesse em atuar como Desenvolvedor back-end, Front-end ou Fullstack.
 </p>
 
 <!--
