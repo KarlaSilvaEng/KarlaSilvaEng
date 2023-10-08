@@ -2,8 +2,6 @@
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=true&lines=👋+Olá,+mundo!+Bem-vindo+ao+meu+perfil;)](https://git.io/typing-svg)
  -->
 
 <h1 align = "center">
@@ -17,11 +15,11 @@
   <a href="#----contact-information">Contatos</a> •
   <a href="#--github-stats">Estatísticas e Métricas</a> •
   <a href="#----hard-skills">Habilidades Técnicas</a> •
-  <a href="#license">License</a>
+  <a href="#--technologies-being-studied">Tecnologias em Estudo</a>
 </p>
 
 <h6>
-  <img src="https://i.imgur.com/QkNJOKx.png" width="200px" title="Sobre" /><br>
+  <img src="https://i.imgur.com/QkNJOKx.png" width="200px" title="Sobre" alt="Imagem com fundo roxo e título 'Sobre mim' na cor branca"/><br>
   <sub><i>About me</i></sub>
 </h6>
  
@@ -36,7 +34,7 @@
 <a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
 <h6>
-  <img src="https://i.imgur.com/GNekv90.png" width="200px" title="Objetivos" alt="Objetivos profissionais"/></a><br>
+  <img src="https://i.imgur.com/GNekv90.png" width="200px" title="Objetivos" alt="Imagem com fundo roxo e título 'Objetivos' na cor branca"/></a><br>
   <sub><i>Objectives</i></sub>
 </h6>
 
@@ -53,7 +51,7 @@
 -->
 
 <h6>
-  <img src="https://i.imgur.com/CGY9RLu.png" width="200px" title="Contatos" alt="Informações de Contato"/></a><br>
+  <img src="https://i.imgur.com/CGY9RLu.png" width="200px" title="Contatos" alt="Imagem com fundo roxo e título 'Contatos' na cor branca"/></a><br>
   <sub><i>Contact Information</i></sub>
 </h6>
 
@@ -65,7 +63,7 @@
 <a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
 <h6>
- <img src="https://i.imgur.com/hwQCsGL.png" width="200px" title="Estatísticas e Métricas" alt="Estatísicas e Métricas: GitHub Status" /></a><br>
+ <img src="https://i.imgur.com/hwQCsGL.png" width="200px" title="Estatísticas e Métricas" alt="Imagem com fundo roxo e título 'Estatísticas e Métricas' na cor branca" /></a><br>
  <sub><i>GitHub Stats</i></sub>
 </h6>
 
@@ -75,16 +73,21 @@
 <a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
 <h6>
-  <img src="https://i.imgur.com/Uz7hgfU.png" width="200px" title="Habilidades Técnicas" alt="Habilidades Técnicas - Hard Skills" /></a><br>
+  <img src="https://i.imgur.com/Uz7hgfU.png" width="200px" title="Habilidades Técnicas" alt="Imagem com fundo roxo e título 'Habilidades Técnicas' na cor branca" /></a><br>
   <sub><i>Hard Skills</i></sub>
 </h6>
 
-<h3 align="left">Metodologias Ágeis</h3>
+<p><strong>METODOLOGIAS ÁGEIS</strong></p>
+<ul>
+  <li>
+    Scrum (<a href="https://www.credly.com/badges/0efc793b-9d46-47ac-b245-95fab278365f/linked_in_profile">Certificação</a>)
+  </li>
+  <li>
+    Kanban
+  </li>
+</ul>
 
-- Scrum ([Certificação](https://www.credly.com/badges/0efc793b-9d46-47ac-b245-95fab278365f/linked_in_profile))
-- Kanban
-
-<h3 align="left">Minha Stack</h3>
+<p><strong>MINHA STACK</strong></p>
 <table align="center" height="150px" style="overflow-x: auto;">
   <tr>
     <td align="center" width=120px>
@@ -149,7 +152,11 @@
 
 <a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
-<h3 align="left">No momento, estou aprendendo as seguintes tecnologias:</h3>
+<h6>
+ <img src="https://i.imgur.com/bxJmLHu.png" width="200px" title="Tecnologias em Estudo" alt="Imagem com fundo roxo e título 'Tecnologias em Estudo' na cor branca"/></a><br>
+ <sub><i>Technologies being studied</i></sub>
+</h6>
+
 <table align="center" height="150px" style="overflow-x: auto;">
   <tr>
    <td align="center" width=120px style="border-color: purple; background-color: black;">
@@ -222,17 +229,14 @@
   </tr>
 </table>
 
-
-> "A verdadeira educação é a práxis: reflexão e ação do homem sobre o mundo para transformá-lo." - Paulo Freire
-
-<!--
-<div align="left"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
--->
+<a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
 ![snake gif](https://github.com/KarlaSilvaEng/KarlaSilvaEng/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-     <img width="75%" src="https://github-widgetbox.vercel.app/api/profile?username=KarlaSilvaEng&data=followers,repositories,stars,commits&theme=laser" alt="GitHub WirdgetBox" />   
+  <img width="75%" src="https://github-widgetbox.vercel.app/api/profile?username=KarlaSilvaEng&data=followers,repositories,stars,commits&theme=laser" alt="GitHub WirdgetBox" />     
 </p>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=true&lines=👋+Até+breve!;)](https://git.io/typing-svg)
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=footer"/>
