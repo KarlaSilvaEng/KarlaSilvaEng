@@ -14,9 +14,9 @@
 <p align="center">
   <a href="#----about-me">Sobre</a> •
   <a href="#----objectives">Objetivos</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#----contact-information">Contatos</a> •
+  <a href="#--github-stats">Estatísticas e Métricas</a> •
+  <a href="#----hard-skills">Habilidades Técnicas</a> •
   <a href="#license">License</a>
 </p>
 
@@ -30,13 +30,13 @@
 <p align="justify"> 
   Carioca, engenheira civil em transição de carreira, apaixonada por trilhas em meio à natureza, pelo processo de autoconhecimento, por pessoas bem humoradas, por açaí com leite em pó e, por último, mas não menos importante, pela tecnologia.<br><br>
   Formada em Engenharia Civil pela UERJ, atuei como engenheira calculista em projetos estruturais diversos. Através dessa experiência, percebi que o que mais me interessava era automatizar tarefas. Por isso, resolvi mergulhar no universo da programação.<br><br>
-  No momento, estou cursando Desenvolvimento Front-End na DevMedia, Computação em Nuvem na Escola da Nuvem e Desenvolvimento Full Stack na Korú. Além disso, estou no último módulo do curso de Desenvolvimento de Software Back-End da Cubos Academy. Estou muito animada nessa jornada e sempre em busca de novos conhecimentos na área para fazer uso do potencial da tecnologia de forma positiva, ética e inclusiva.<br><br>
+  No momento, estou cursando Desenvolvimento Front-End na DevMedia, Computação em Nuvem na Escola da Nuvem e Desenvolvimento Full Stack na Korú. Além disso, estou no último módulo do curso de Desenvolvimento de Software Back-End da Cubos Academy. Estou muito animada nessa jornada e sempre em busca de novos conhecimentos na área para fazer uso do potencial da tecnologia de forma positiva, ética e inclusiva.
 </p>
 
 <a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
 <h6>
-  <img src="https://i.imgur.com/GNekv90.png" width="200px" title="Objetivos"/></a><br>
+  <img src="https://i.imgur.com/GNekv90.png" width="200px" title="Objetivos" alt="Objetivos profissionais"/></a><br>
   <sub><i>Objectives</i></sub>
 </h6>
 
@@ -52,20 +52,32 @@
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
 
-<h2 align="left">Contatos</h2>
+<h6>
+  <img src="https://i.imgur.com/CGY9RLu.png" width="200px" title="Contatos" alt="Informações de Contato"/></a><br>
+  <sub><i>Contact Information</i></sub>
+</h6>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/karlasilva-eng/)
+[![E-mail](https://img.shields.io/badge/-Email:%20karlasilvaeng@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/karlasilva-eng/) 
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/wHqCcA24za)
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/karlasilvaeng) 
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo&logo=)](https://www.dio.me/users/karlasilvaeng) 
 
-<h3 align="left">Status</h3>
+<a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<h6>
+ <img src="https://i.imgur.com/hwQCsGL.png" width="200px" title="Estatísticas e Métricas" alt="Estatísicas e Métricas: GitHub Status" /></a><br>
+ <sub><i>GitHub Stats</i></sub>
+</h6>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KarlaSilvaEng&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 [![Most_Used_languages](https://github-readme-stats.vercel.app/api/top-langs?username=KarlaSilvaEng&layout=compact&langs_count=4&card_width=320&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/KarlaSilvaEng/github-readme-stats)
-<br>
+
+<a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
+
+<h6>
+  <img src="https://i.imgur.com/Uz7hgfU.png" width="200px" title="Habilidades Técnicas" alt="Habilidades Técnicas - Hard Skills" /></a><br>
+  <sub><i>Hard Skills</i></sub>
+</h6>
 
 <h3 align="left">Metodologias Ágeis</h3>
 
@@ -134,6 +146,8 @@
     </td>
   </tr>
 </table>
+
+<a href="#----karla-silva---desenvolvedora-back-end">Voltar ao topo</a>
 
 <h3 align="left">No momento, estou aprendendo as seguintes tecnologias:</h3>
 <table align="center" height="150px" style="overflow-x: auto;">
