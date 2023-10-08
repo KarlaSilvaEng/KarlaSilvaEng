@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
  
-<img align="right" alt="Ilustração das mãos de um desenvolvedor digitando códigos usando o teclado do computador. Ao lado direito do teclado, há uma xícara de café e o mouse. Ao lado esquerdo, uma pequena planta" height="500" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Ilustração das mãos de um desenvolvedor digitando códigos usando o teclado do computador. Ao lado direito do teclado, há uma xícara de café e o mouse. Ao lado esquerdo, uma pequena planta" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h6>
   <img src="https://i.imgur.com/QkNJOKx.png" width="200px" title="Sobre" /><br>
