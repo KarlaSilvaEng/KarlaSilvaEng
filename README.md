@@ -1,12 +1,17 @@
+<a href="https://imgur.com/6a2lYDy"><img src="https://i.imgur.com/6a2lYDy.png" title="source: imgur.com" /></a>
+
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=true&lines=👋+Olá,+mundo!+Bem-vindo+ao+meu+perfil;)](https://git.io/typing-svg)
+
+ -->
  
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
   <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">
-  Karla Silva
+  Resumo
 </h1>
 <p align="justify"> Carioca, engenheira civil em transição de carreira, apaixonada por trilhas em meio à natureza, pelo processo de autoconhecimento, por pessoas bem humoradas, por açaí com leite em pó e, por último, mas não menos importante, pela tecnologia.
 <br><br>
