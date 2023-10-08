@@ -19,13 +19,13 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
- 
-<img align="right" alt="Ilustração das mãos de um desenvolvedor digitando códigos usando o teclado do computador. Ao lado direito do teclado, há uma xícara de café e o mouse. Ao lado esquerdo, uma pequena planta" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h6>
   <img src="https://i.imgur.com/QkNJOKx.png" width="200px" title="Sobre" /><br>
   <sub><i>About me</i></sub>
 </h6>
+ 
+<img align="right" alt="Ilustração das mãos de um desenvolvedor digitando códigos usando o teclado do computador. Ao lado direito do teclado, há uma xícara de café e o mouse. Ao lado esquerdo, uma pequena planta" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <p align="justify"> 
   Carioca, engenheira civil em transição de carreira, apaixonada por trilhas em meio à natureza, pelo processo de autoconhecimento, por pessoas bem humoradas, por açaí com leite em pó e, por último, mas não menos importante, pela tecnologia.<br><br>
