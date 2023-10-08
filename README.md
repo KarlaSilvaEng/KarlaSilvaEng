@@ -2,21 +2,21 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=true&lines=👋+Olá,+mundo!+Bem-vindo+ao+meu+perfil;)](https://git.io/typing-svg)
  
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
-  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">
+  <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">
   Karla Silva
 </h1>
-
 <p align="justify"> Carioca, engenheira civil em transição de carreira, apaixonada por trilhas em meio à natureza, pelo processo de autoconhecimento, por pessoas bem humoradas, por açaí com leite em pó e, por último, mas não menos importante, pela tecnologia.
 <br><br>
 Formada em Engenharia Civil pela UERJ, atuei como engenheira calculista em projetos estruturais diversos. Através dessa experiência, percebi que o que mais me interessava era automatizar tarefas. Por isso, resolvi mergulhar no universo da programação.
 <br><br>
-No momento, estou cursando Desenvolvimento de Software com foco em Back-End na CubosAcademy e Desenvolvimento Web Front-End na DevMedia. Estou muito animada nessa jornada e sempre em busca de novos conhecimentos na área para fazer uso do potencial da tecnologia de forma positiva, ética e inclusiva.
+No momento, estou cursando Desenvolvimento Front-End na DevMedia, Computação em Nuvem na Escola da Nuvem e Desenvolvimento FullStack na Korú. Além disso, estou no último módulo do curso de Desenvolvimento de Software Back-End da Cubos Academy. Estou muito animada nessa jornada e sempre em busca de novos conhecimentos na área para fazer uso do potencial da tecnologia de forma positiva, ética e inclusiva.
 <br><br>
-Tenho interesse em atuar como Desenvolvedor back-end, Front-end ou Fullstack.
+Tenho interesse em atuar como Desenvolvedora back-end, Front-end ou Fullstack.
 </p>
+
 
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
@@ -25,7 +25,7 @@ Tenho interesse em atuar como Desenvolvedor back-end, Front-end ou Fullstack.
 
 <h3 align="left">Contatos</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/karlasilva-eng/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/wHqCcA24za)
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/karlasilvaeng) 
@@ -38,9 +38,147 @@ Tenho interesse em atuar como Desenvolvedor back-end, Front-end ou Fullstack.
 [![Most_Used_languages](https://github-readme-stats.vercel.app/api/top-langs?username=KarlaSilvaEng&layout=compact&langs_count=4&card_width=320&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/KarlaSilvaEng/github-readme-stats)
 <br>
 
-<h3 align="left">Tecnologias e Ferramentas</h3>
+<h3 align="left">Metodologias Ágeis</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,py,java,postgres,eclipse,idea,git,github)](https://skillicons.dev)
+- Scrum ([Certificação](https://www.credly.com/badges/0efc793b-9d46-47ac-b245-95fab278365f/linked_in_profile))
+- Kanban
+
+<h3 align="left">Minha Stack</h3>
+<table align="center" height="150px" style="overflow-x: auto;">
+  <tr>
+    <td align="center" width=120px>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt="Javascript icon"/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://nodejs.org/pt-br/docs">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="Node.js icon"/>
+        <sub>
+          <b>
+            <pre>Node.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="50px" alt="Express.js icon"/>
+        <sub>
+          <b>
+            <pre>Express.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="50px" alt="Postgresql icon"/><br/>
+        <sub>
+          <b>
+            <pre>PostgreSQL</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://git-scm.com/doc">
+        <img src="https://skillicons.dev/icons?i=git" width="50px" alt="Git icon"/><br/>
+        <sub>
+          <b>
+            <pre>Git</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://docs.github.com/pt">
+        <img src="https://skillicons.dev/icons?i=github" width="50px" alt="Github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Github</pre>
+          </b>
+        </sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">No momento, estou aprendendo as seguintes tecnologias:</h3>
+<table align="center" height="150px" style="overflow-x: auto;">
+  <tr>
+   <td align="center" width=120px style="border-color: purple; background-color: black;">
+       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="50px" alt="Html 5 icon"/>
+        <sub>
+          <b>
+            <pre>HTML 5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="50px" alt="CSS 3 icon"/>
+        <sub>
+          <b>
+            <pre>CSS 3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" alt="Bootstrap icon"/>
+        <sub>
+          <b>
+            <pre>Bootstrap</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="50px" alt="React.js icon"/>
+        <sub>
+          <b>
+            <pre>React.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://www.python.org/doc/">
+        <img src="https://skillicons.dev/icons?i=python" width="50px" alt="Python icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Python</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://flask.palletsprojects.com/en/3.0.x/">
+        <img src="https://skillicons.dev/icons?i=flask" width="50px" alt="Flask icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Flask</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://docs.aws.amazon.com/">
+        <img src="https://skillicons.dev/icons?i=aws" width="50px" alt="AWS icon"/><br/>
+        <sub> 
+          <b>
+            <pre>AWS</pre>
+          </b>
+        </sub>
+    </td>
+  </tr>
+</table>
+
 
 > "A verdadeira educação é a práxis: reflexão e ação do homem sobre o mundo para transformá-lo." - Paulo Freire
 
