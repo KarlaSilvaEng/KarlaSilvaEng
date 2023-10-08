@@ -80,7 +80,7 @@
 <p><strong>METODOLOGIAS ÁGEIS</strong></p>
 <ul>
   <li>
-    Scrum (<a href="https://www.credly.com/badges/0efc793b-9d46-47ac-b245-95fab278365f/linked_in_profile">Certificação</a>)
+    Scrum (<a href="https://www.credly.com/badges/0efc793b-9d46-47ac-b245-95fab278365f/linked_in_profile" target="_blank">Certificação</a>)
   </li>
   <li>
     Kanban
