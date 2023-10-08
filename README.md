@@ -1,4 +1,4 @@
-<a href="https://imgur.com/6a2lYDy"><img src="https://i.imgur.com/6a2lYDy.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/4Q2dmsq"><img src="https://i.imgur.com/4Q2dmsq.png" title="source: imgur.com" /></a>
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
