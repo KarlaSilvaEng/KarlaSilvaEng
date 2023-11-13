@@ -1,4 +1,4 @@
-<a href="https://imgur.com/4Q2dmsq"><img src="https://i.imgur.com/4Q2dmsq.png" title="source: imgur.com" alt="Karla Silva, desenvolvedora back-end com conhecimentos em Javascript, Node.js, Express.js, PostgreSQL, Desenvolvimento de API's REST, Clean Code, Git, GitHub e Metodologias Ágeis. Cursos em andamento: Desenvolvimento de Software Front-End com previsão de formação para dezembro de 2023, Computação em Nuvem AWS com previsão de formação janeiro de 2024 e Desenvolvimento de Software FullStack com previsão de formação para março de 2024. "/></a>
+<img src="https://i.imgur.com/2qfSelL.gif" title="Karla Silva - Desenvolvedora Fullstack" alt="Banner do perfil do github de Karla Silva, desenvolvedor fullstack" />
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
