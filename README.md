@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/2qfSelL.gif" title="Karla Silva - Desenvolvedora Fullstack" alt="Banner do perfil do github de Karla Silva, desenvolvedor fullstack" />
+
+<img src="https://i.imgur.com/nVBwHYt.gif" title="Karla Silva - Desenvolvedora Fullstack" alt="Banner do perfil do github de Karla Silva, desenvolvedor fullstack" />
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e237e&height=120&section=header"/>
